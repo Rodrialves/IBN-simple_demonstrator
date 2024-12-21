@@ -1,4 +1,4 @@
-# SDN Link Manager Demonstrator
+# IBN Simple Demonstrator
 
 This project demonstrates SDN capabilities using the Ryu controller and Mininet. The tool allows users to dynamically manage (block/unblock) the connection between two switches (`s1` and `s2`) using a REST API and a simple CLI interface.
 
